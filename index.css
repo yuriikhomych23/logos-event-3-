@@ -1,0 +1,22 @@
+.box {
+    margin: 0 auto;
+
+}
+
+.animation-box {
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    transition: .8s;
+}
+
+.hide {
+    width: 0;
+    height: 0;
+}
+
+.show {
+    width: 150px;
+    height: 150px;
+}
